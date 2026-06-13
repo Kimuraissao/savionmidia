@@ -1,0 +1,192 @@
+@charset "UTF-8";
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    text-align: center;
+    margin: 10px;
+}
+
+nav{
+    display: flex;
+}
+
+a{
+    flex: wrap;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 20px;
+}
+
+h2{
+    text-align: center;
+    margin: 10px;
+}
+img{
+    border-radius: 10px;
+    margin-left: 3px;
+    margin-right: 3px;
+    box-shadow: 2px 2px 10px black;
+}
+
+#manual{
+    flex:wrap;
+    margin: 10px 10px 10px 5px;
+    text-indent: 5px;
+}
+
+#pensar{
+    width: 30%;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 10px 10px 10px 5px;
+    box-shadow: 2px 2px 10px black;
+}
+
+#pensar > h3{
+    text-align: center;
+}
+
+#pensar > p{
+    text-indent: 5px;
+    margin: 0px 10px 10px 5px;
+}
+
+#planejar{
+    width: 30%;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 10px 10px 10px 5px;
+    box-shadow: 2px 2px 10px black;
+    list-style-position: inside;
+}
+
+#planejar > h3{     
+    text-align: center;
+}
+
+#planejar > p{
+    margin: 0px 10px 10px 10px;
+    
+}
+
+#postar{
+    width: 30%;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 10px 10px 10px 5px;
+    box-shadow: 2px 2px 10px black;
+}
+
+#postar > h3{
+    text-align: center;
+}
+
+#postar > p{
+    text-indent: 5px;
+    margin: 0px 10px 10px 5px;
+}
+
+#kelly{
+    width: 30%;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 10px 10px 10px 5px;
+    box-shadow: 2px 2px 10px black;
+}
+
+#kelly > h3{
+    text-align: center;
+}
+
+#kelly > p{
+    text-indent: 5px;
+    margin: 0px 10px 10px 5px;
+}
+
+#photo{
+    width: 30%;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 10px 10px 10px 5px;
+    box-shadow: 2px 2px 10px black;
+}
+#photo > h3{
+    text-align: center;
+}
+#photo > p{
+    text-indent: 5px;
+    margin: 0px 10px 10px 5px;
+}
+
+#negra{
+    width: 30%;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 10px 10px 10px 5px;
+    box-shadow: 2px 2px 10px black;
+}
+#negra > h3{
+    text-align: center;
+}
+#negra > p{
+    text-indent: 5px;
+    margin: 0px 10px 10px 5px;
+}
+
+#advg{
+    width: 30%;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 10px 10px 10px 5px;
+    box-shadow: 2px 2px 10px black;
+}
+#advg > h3{
+    text-align: center;
+}
+#advg > p{
+    text-indent: 5px;
+    margin: 0px 10px 10px 5px;
+}
+
+#influ{
+    width: 30%;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 10px 10px 10px 5px;
+    box-shadow: 2px 2px 10px black;
+}
+#influ > h3{
+    text-align: center;
+}
+#influ > p{
+    text-indent: 5px;
+    margin: 0px 10px 10px 5px;
+}
+
+#design{
+    width: 30%;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 10px 10px 10px 5px;
+    box-shadow: 2px 2px 10px black;
+}
+#design > h3{
+    text-align: center;
+
+}
+#design > p{
+    text-indent: 5px;
+    margin: 0px 10px 10px 5px;
+}
