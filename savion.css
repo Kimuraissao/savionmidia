@@ -139,6 +139,7 @@ aside{
 #kelly{
     background-color: rgba(210, 98, 255, 0.171);
     width: 30%;
+    padding: 5px;
     border: 1px solid black;
     border-radius: 5px;
     margin: 10px 10px 10px 5px;
@@ -158,6 +159,7 @@ aside{
 #photo{
     background-color: rgba(210, 98, 255, 0.171);
     width: 30%;
+    padding: 5px;
     border: 1px solid black;
     border-radius: 5px;
     margin: 10px 10px 10px 5px;
@@ -175,6 +177,7 @@ aside{
 #negra{
     background-color: rgba(210, 98, 255, 0.171);
     width: 30%;
+    padding: 5px;   
     border: 1px solid black;
     border-radius: 5px;
     margin: 10px 10px 10px 5px;
@@ -192,6 +195,7 @@ aside{
 #advg{
     background-color: rgba(210, 98, 255, 0.171);
     width: 30%;
+    padding: 5px;
     border: 1px solid black;
     border-radius: 5px;
     margin: 10px 10px 10px 5px;
@@ -209,6 +213,7 @@ aside{
 #influ{
     background-color: rgba(210, 98, 255, 0.171);
     width: 30%;
+    padding: 5px;   
     border: 1px solid black;
     border-radius: 5px;
     margin: 10px 10px 10px 5px;
@@ -227,6 +232,7 @@ aside{
 #design{
     background-color: rgba(210, 98, 255, 0.171);
     width: 30%;
+    padding: 5px;
     border: 1px solid black;
     border-radius: 5px;
     margin: 10px 10px 10px 5px;
