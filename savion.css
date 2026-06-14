@@ -5,6 +5,7 @@
     padding: 0px;
 }
 
+@media (max-width: 576px){
 
     body{
         background-color: snow
@@ -64,6 +65,7 @@ img{
 
 article#ps{
     display: flex;
+    flex-direction: column;
 
 }
 
@@ -141,6 +143,7 @@ aside{
     border-radius: 5px;
     margin: 10px 10px 10px 5px;
     box-shadow: 2px 2px 10px black;
+    align-self:flex-start;
 }
 
 #kelly > h3{
@@ -159,6 +162,7 @@ aside{
     border-radius: 5px;
     margin: 10px 10px 10px 5px;
     box-shadow: 2px 2px 10px black;
+    align-self:flex-end;
 }
 #photo > h3{
     text-align: center;
@@ -175,6 +179,7 @@ aside{
     border-radius: 5px;
     margin: 10px 10px 10px 5px;
     box-shadow: 2px 2px 10px black;
+    align-self:flex-start;
 }
 #negra > h3{
     text-align: center;
@@ -191,6 +196,7 @@ aside{
     border-radius: 5px;
     margin: 10px 10px 10px 5px;
     box-shadow: 2px 2px 10px black;
+    align-self:flex-end;
 }
 #advg > h3{
     text-align: center;
@@ -207,6 +213,7 @@ aside{
     border-radius: 5px;
     margin: 10px 10px 10px 5px;
     box-shadow: 2px 2px 10px black;
+    align-self:flex-start;
 }
 #influ > h3{
     text-align: center;
@@ -224,6 +231,7 @@ aside{
     border-radius: 5px;
     margin: 10px 10px 10px 5px;
     box-shadow: 2px 2px 10px black;
+    align-self:flex-end;
 }
 #design > h3{
     text-align: center;
@@ -246,3 +254,4 @@ color: black;
     color: black;
 }
 
+}
