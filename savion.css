@@ -219,6 +219,7 @@ aside{
     margin: 10px 10px 10px 5px;
     box-shadow: 2px 2px 10px black;
     align-self:flex-start;
+    flex: wrap;
 }
 #influ > h3{
     text-align: center;
@@ -238,6 +239,7 @@ aside{
     margin: 0px 10px 10px 5px;
     box-shadow: 2px 2px 10px black;
     align-self:flex-end;
+    flex: wrap;
 }
 #design > h3{
     text-align: center;
