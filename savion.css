@@ -222,6 +222,8 @@ aside{
     flex: wrap;
 }
 #influ > h3{
+    width: 30%;
+    flex: wrap;
     text-align: center;
     font-size: 1.05em;
 }
@@ -243,13 +245,14 @@ aside{
     flex: wrap;
 }
 #design > h3{
+    width: 30%;
+    flex: wrap;
     text-align: center;
     font-size: 1em;
 }
 #design > p{
     text-indent: 5px;
     margin: 0px 10px 10px 5px;
-    width: 30%;
 }
 
 #planejamento{
