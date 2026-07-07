@@ -219,8 +219,6 @@ article#trabalho{
     flex: wrap;
 }
 #influ > h3{
-    width: 30%;
-    flex: wrap;
     text-align: center;
     font-size: 1.05em;
 }
@@ -242,8 +240,6 @@ article#trabalho{
     flex: wrap;
 }
 #design > h3{
-    width: 30%;
-    flex: wrap;
     text-align: center;
     font-size: 1em;
 }
